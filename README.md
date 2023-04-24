@@ -3,3 +3,5 @@ Finance app in which information is shown on Dashboard in the form of Charts, it
 
 
 ![alt text](https://github.com/shaykhazaan/MERN-Finance-Dashboard/blob/main/server/data/screencapture-localhost-5173-2023-04-13-18_43_46.png?raw=true)
+
+![alt text](https://github.com/shaykhazaan/MERN-Finance-Dashboard/blob/main/server/data/screencapture-localhost-5173-predictions-2023-04-13-18_11_58.png?raw=true)
